@@ -67,6 +67,7 @@
 		6E9E49ED295A208500BB25F7 /* Server */ = {
 			isa = PBXGroup;
 			children = (
+				6E9E49EB295A0CC200BB25F7 /* ServerMotd.swift */,
 				6E5BAB4E29587DC7007DC369 /* Server.swift */,
 				6E9E49E52959DCC900BB25F7 /* ServerDebug.swift */,
 				6E9E49E92959FD5A00BB25F7 /* ServerPlayers.swift */,
@@ -85,7 +86,6 @@
 		6EBCEC6E2956BBAD00D3672A = {
 			isa = PBXGroup;
 			children = (
-				6E9E49EB295A0CC200BB25F7 /* ServerMotd.swift */,
 				6EBCEC792956BBAD00D3672A /* mcviewer */,
 				6EBCEC782956BBAD00D3672A /* Products */,
 			);
